@@ -1,0 +1,72 @@
+/*Margin y Padding*/
+.mg-30{
+	margin: 30px;
+}
+.mg-top-30{
+	margin-top: 30px;
+}
+.mg-top-10{
+	margin-top: 10px;
+}
+.mg-top-20{
+	margin-top: 20px;
+}
+.mg-left-10{
+	margin-left: 10px;
+}
+/*Colores*/
+.dark-midnightBlue{
+	color: #003366;
+}
+.gray-manShaft{
+	color:  #333333;
+}
+.blue-grayPrussian{
+	color: #92a8bf;
+}
+.dark-grayBlue{
+	color: #1f4060;
+}
+.medium-stateBlue{
+	color: #52527a;
+}
+.wine-gray{
+	color: #660022;
+}
+.sand{
+	color: #ce927e;
+}
+.afternoon-orange{
+	color: #ffaa80;
+}
+.light-blue{
+	color: #b3b3ff;
+}
+.light-skyblue{
+	color: #b3ccff;
+}
+.light-sky-grayBlue{
+	color: #ccccff;
+}
+/*Generales*/
+hr{
+	width: 80%;
+	color: black !important!
+}
+.border{
+	border: black 2px solid;
+	border-radius: 5px;
+	height: 500px;
+}
+.img-contenedor{
+	width: 300px;
+	height: 300px;
+}
+.slider {
+    width: 300px;
+    height: 300px;
+    -webkit-background-size:100% 100%;
+    -moz-background-size:100% 100%;
+    background-repeat:no-repeat;
+    border: 2px black solid;
+}
